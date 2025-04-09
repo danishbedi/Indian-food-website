@@ -1,8 +1,5 @@
-Here’s a modified version of your README tailored for your **Indian food website project**:
 
----
-
-# 🇮🇳 Indian Food Website
+#Indian Food Website
 
 Welcome to the **Indian Food Website** project! This repository contains the front-end code for a vibrant and responsive site showcasing traditional Indian cuisine, regional dishes, and culinary culture.
 
@@ -22,7 +19,6 @@ The Indian Food Website is designed to celebrate the rich diversity of Indian cu
 - ✅ Recipe showcase section
 - ✅ Cultural facts and cooking tips
 - ✅ Contact form for inquiries or feedback
-- ✅ 'Read Aloud' feature for accessibility
 
 ## 📂 Project Structure
 ```
@@ -42,7 +38,7 @@ indian-food-website/
 ## 📖 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/indian-food-website.git
+   git clone [https://github.com/yourusername/indian-food-website.git]
    ```
 2. Open the project folder in **Visual Studio Code**.
 3. Launch `index.html` in your browser to explore the site.
@@ -51,9 +47,9 @@ indian-food-website/
 Contributions are always welcome! You can fork the repo, make changes, and submit a pull request. Got ideas for new recipes or improvements? Open an issue!
 
 ## 📩 Contact
-For suggestions or collaboration, reach out via **[your email/contact info]**.
+For suggestions or collaboration, reach out via Danishbedi1234@gmail.com 
 
-🔗 **GitHub Repository:** [Indian Food Website](https://github.com/yourusername/indian-food-website)
+🔗 **GitHub Repository:** [Indian Food Website](https://github.com/danishbedi/Indian-food-website/tree/main)
 
 ---
 🥘✨ _Indian Food Website – A journey through taste and tradition!_
