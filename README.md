@@ -1,6 +1,3 @@
-
-#Indian Food Website
-
 Welcome to the **Indian Food Website** project! This repository contains the front-end code for a vibrant and responsive site showcasing traditional Indian cuisine, regional dishes, and culinary culture.
 
 ## 🍛 Project Overview
