@@ -51,6 +51,3 @@ For suggestions or collaboration, reach out via Danishbedi1234@gmail.com
 ---
 🥘✨ _Indian Food Website – A journey through taste and tradition!_
 
----
-
-Let me know if you’d like the contact info or repository link updated with your actual details!
