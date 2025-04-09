@@ -2,7 +2,7 @@ let captchaCode = "";
 
 // Function to generate a random CAPTCHA
 function generateCaptcha() {
-    let chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
+    let chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789"...;
     captchaCode = "";
     
     for (let i = 0; i < 6; i++) {
