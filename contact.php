@@ -1,5 +1,5 @@
 <?php
-$success_message = $error_message = ''...;
+$success_message = $error_message = ''....;
 
 // Database connection details
 $host = 'localhost';        // XAMPP uses localhost for MySQL
